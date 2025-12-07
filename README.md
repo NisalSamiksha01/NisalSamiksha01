@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Samiksha Nisal</h1>
+<h3 align="center">Aspiring Software Developer | AI & Data Enthusiast</h3>
 
-<!--
-**NisalSamiksha01/NisalSamiksha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🔭 Working on **Kumbh Connect – Nashik 2027**  
+- 🌱 Learning **AI, ML, MERN, Python & DevOps**  
+- 👯 Open to collaborations  
+- 📫 Reach me at: **samiksanisal@gmail.com**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with me:
+<a href="https://linkedin.com/in/samikshanisal"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+<a href="mailto:samiksanisal@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+
+---
+
+### 🛠️ Languages & Tools:
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,cpp,git,github,aws,vscode" />
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NisalSamiksha01&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisalSamiksha01&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+### 🔥 Streak Stats:
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=NisalSamiksha01&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NisalSamiksha01&theme=tokyonight" />
+</p>
+
+---
+
+### 👀 Visitor Count:
+<img src="https://komarev.com/ghpvc/?username=NisalSamiksha01&color=blue" />
