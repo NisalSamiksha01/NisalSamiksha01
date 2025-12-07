@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samiksha Nisal</h1>
+<h1 align="center">Hi 👋, I am Samiksha Nisal</h1>
 <h3 align="center">Aspiring Software Developer | AI & Data Enthusiast</h3>
 
 ---
@@ -40,7 +40,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=NisalSamiksha01&theme=tokyonight" />
 </p>
 
----
 
-### 👀 Visitor Count:
-<img src="https://komarev.com/ghpvc/?username=NisalSamiksha01&color=blue" />
